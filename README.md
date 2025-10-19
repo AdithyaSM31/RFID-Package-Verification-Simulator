@@ -6,7 +6,7 @@ Modern RFID Package Verification System with real-time scanning, dual-mode produ
 
 ## 🚀 Live Demo
 
-**Production URL**: `https://your-project.vercel.app` _(Update after deployment)_
+**Production URL**: `https://rfid-package-verification-simulator.vercel.app/`
 
 ## ✨ Features
 
@@ -206,3 +206,4 @@ For issues or questions:
 ---
 
 **Built with ❤️ using Vite + React + TypeScript**
+
