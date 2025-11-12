@@ -1,7 +1,5 @@
 # RFID Package Verification System
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/rfid-verification-system)
-
 Modern RFID Package Verification System with real-time scanning, dual-mode product management, and comprehensive verification dashboard.
 
 ## 🚀 Live Demo
@@ -206,4 +204,5 @@ For issues or questions:
 ---
 
 **Built with ❤️ using Vite + React + TypeScript**
+
 
